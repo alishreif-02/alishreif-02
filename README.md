@@ -89,8 +89,8 @@ Top Languages
 📫 Contact
 
 • GitHub: alishreif-02
-• Email: ashreif798@gmail.com
-• LinkedIn: Add your LinkedIn profile URL here
+• Email: alishreif101010@yahoo.com
+• LinkedIn: https://www.linkedin.com/in/ali-shreif-2b4707434
 
 ────────
 
