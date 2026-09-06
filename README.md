@@ -27,7 +27,6 @@ Built an end-to-end computer-vision pipeline for 5-class industrial metal-surfac
 • Best reported configuration: EfficientNet-B0 • Adam • 100-epoch setting • 100% test accuracy on the project test split
 • Documented limitations around external validity and the need for real-world validation
 
-🔗 View repository
 
 ────────
 
@@ -44,7 +43,6 @@ Developed a distributed machine-learning pipeline for multi-class network-traffi
 • Tuned Random Forest configurations with 3-fold cross-validation
 • Added an unsupervised branch using StandardScaler → PCA → K-Means with silhouette analysis
 
-🔗 View repository
 
 ────────
 
@@ -60,7 +58,6 @@ Built an assistive medication-management system combining a Java-based mobile ap
 • Used Wi-Fi connectivity for smart medication-management functionality
 • Future directions identified in the project include cloud integration, AI analytics, biometric security, tactile support, and larger-scale deployment
 
-🔗 View repository
 
 ────────
 
