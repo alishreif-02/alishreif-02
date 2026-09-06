@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Ali 👋
 
-<!--
-**alishreif-02/alishreif-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Computing student at the **University of East London**, BSc in Computer & Communication Engineering (Lebanese International University). I build end-to-end machine learning and big-data pipelines and enjoy turning messy real-world data into working systems.
 
-Here are some ideas to get you started:
+- 🔭 Currently studying: Artificial Intelligence & Machine Vision, Big Data Analytics (Spark)
+- 🌱 Interests: Machine Learning, Deep Learning, Computer Vision, Distributed Data Processing
+- 💬 Ask me about: PySpark, MATLAB Deep Learning Toolbox, CNN transfer learning, embedded IoT
+- 📫 Reach me: ashreif798@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Featured Projects
+| Project | Stack | Highlight |
+|---|---|---|
+| [Metal Surface Defect Classification](https://github.com/ali-shreif/metal-defect-classification) | MATLAB, Deep Learning Toolbox | 100% test accuracy (EfficientNet-B0) |
+| [PySpark Network Traffic Classification](https://github.com/ali-shreif/pyspark-network-traffic-classification) | PySpark, Spark MLlib | 2.5M+ records, 99.4% weighted F1 |
+| [Smart Pharmacy](https://github.com/ali-shreif/smart-pharmacy) | ESP32, Flutter, IoT | Assistive medication system for blind/deaf users |
+
+#### Skills
+`Python` `PySpark` `MATLAB` `Java` `C` `SQL` `React` `Flutter` `Git`
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ali-shreif&show_icons=true&theme=default)
+```
