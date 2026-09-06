@@ -2,7 +2,7 @@ Hi, I’m Ali Shreif 👋
 
 MSc Computing Student | Artificial Intelligence | Machine Learning | Computer Vision | Big Data | IoT
 
-I am an MSc Computing student at the University of East London with a BSc in Computer & Communication Engineering from the Lebanese International University. My projects focus on building practical, end-to-end systems across machine learning, computer vision, big-data analytics, and embedded IoT.
+I am an MSc AI Engineer's at the University of East London with a BSc in Computer & Communication Engineering from the Lebanese International University. My projects focus on building practical, end-to-end systems across machine learning, computer vision, big-data analytics, and embedded IoT.
 
 I enjoy taking a problem from data preparation and model development through evaluation, experimentation, and implementation.
 
